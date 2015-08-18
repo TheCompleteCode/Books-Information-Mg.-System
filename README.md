@@ -34,7 +34,15 @@ The files includes:
 4. BooksList.h
 5. Main.cpp
 
-when you execute the code run the "Main.cpp" file.
+This project is developed using Dev C++ 4.9.9.2 setup's as compiler. 
+
+You can execute this project by running the "Main.cpp" file in dev C++ compiler.
+
+#Dev C++ Compiler 4.9.9.2 Setup:
+
+Download the devC++ compiler setup by visit our blogs 'downloads' section.
+
+Point your browser here: http://thecompletecode.blogspot.com/p/blog-page.html
 
 Thank you.
 
