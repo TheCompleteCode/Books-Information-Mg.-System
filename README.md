@@ -1,4 +1,4 @@
-# Books-Information-Managment-System
+# Books Information Managment System
 
 Write a program in C++ to simulate a Book store’s database. A Book Store’s database stores information about each book. This information consists of book’s Category and Title.
 
@@ -25,7 +25,8 @@ You can uses classes or structures + pointers.
 
 There are 5 files which is the complete source code of this project.
 
-the files includes:
+The files includes:
+
 1. Globel.h
 2. BookNode.h
 3. CategoryNode.h
