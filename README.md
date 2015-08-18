@@ -1,4 +1,4 @@
-# Books-Information-Mg.-System
+# Books-Information-Managment-System
 
 Write a program in C++ to simulate a Book store’s database. A Book Store’s database stores information about each book. This information consists of book’s Category and Title.
 
