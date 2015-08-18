@@ -44,10 +44,6 @@ Download the devC++ compiler setup by visit our blogs 'downloads' section.
 
 Point your browser here: http://thecompletecode.blogspot.com/p/blog-page.html
 
-Thank you.
-
-Created & Developed by: The Complete Code
-
 #More Details:
 
 Visit our blog at http://www.TheCompleteCode.blogspot.com/
@@ -55,4 +51,6 @@ Visit our blog at http://www.TheCompleteCode.blogspot.com/
 Visit our facebook page at https://www.facebook.com/TheCompleteCodeBlog
 
 
+Thank you.
 
+Created & Developed by: The Complete Code
