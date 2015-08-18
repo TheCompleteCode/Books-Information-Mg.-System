@@ -5,6 +5,7 @@ Write a program in C++ to simulate a Book store’s database. A Book Store’s d
 For Example:
 
 Category: Computer Science
+
 Book Title: C++ Plus Data Structures
 
 The information should be stored using linked lists. Create a linked list that represents “Category” as its nodes. Each node of “Category” contains a linked list of nodes represent “Books” belong to that category. A user must be given a list of operation to perform the following operations:
