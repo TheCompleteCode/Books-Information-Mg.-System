@@ -22,7 +22,7 @@ Searching:
 You can uses classes or structures + pointers.
 
 
-#Solution:
+#Solution Files:
 
 There are 5 files which is the complete source code of this project.
 
@@ -40,7 +40,7 @@ Thank you.
 
 Created & Developed by: The Complete Code
 
-More Details:
+#More Details:
 
 Visit our blog at http://www.TheCompleteCode.blogspot.com/
 
